@@ -1,0 +1,1 @@
+alert('Anda berhasil melakukan registrasi!');
